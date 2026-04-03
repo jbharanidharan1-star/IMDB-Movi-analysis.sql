@@ -115,9 +115,8 @@ This analysis helps:
 
 ## 📬 Contact
 
-* **Name:** [Your Name]
-* **LinkedIn:** [Your Link]
-* **Email:** [Your Email]
+* **Name:** [Bharanidharan]
+* **Email:** [J.bharanidharan1@gmail.com]
 
 ---
 
